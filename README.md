@@ -13,5 +13,4 @@ Per l'invio dell'email è necessario l'utilizzo di un account Gmail.
 Per password si intente "password per applicazioni" e può essere configurata seguendo questa guida 
 https://support.google.com/accounts/answer/185833?hl=it
 
-Le fatture generate in formato pdf vengono archiviate nella cartella c:\pdf .
-E' necessario creare questa cartella e copiare il file fattura.pdf all'interno.
+Le fatture generate in formato pdf vengono archiviate nella cartella ..\desktop\pdf.
